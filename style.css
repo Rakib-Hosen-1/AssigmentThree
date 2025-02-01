@@ -1,0 +1,39 @@
+/* Font-family */
+.sora {
+    font-family: "Sora", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+.adlam-display-regular {
+    font-family: "ADLaM Display", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+/* primary color palet */
+.accent{
+    color: #FFDC26;
+}
+.text-color{
+    color: #111111;
+}
+/* Nav-bar background color */
+.nav-bg{
+    background-color: #FFF9F4;
+}
+.bg-image{
+    background-image: url("/c1-assets/cat-big.png");
+}
+/* Cards color */
+.card-bg{
+     background-color: #F9DF8A;
+}
+/* trending section bg */
+.trend-bg{
+    background-color: #FFF9F4;
+}
+.gradient1{
+    background: linear-gradient(to right, #FFF9F4 0%, #F9DF8A 80%);
+}
+.gradient2{
+    background: linear-gradient(to right, #F8CCFB 0%, #ACD2FD 80%);
+}
